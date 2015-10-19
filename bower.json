@@ -1,0 +1,20 @@
+{
+  "name": "playground",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gabriel N Schenker"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gnschenker/Playground",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

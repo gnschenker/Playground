@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gnschenker/Playground/issues"
   },
-  "homepage": "https://github.com/gnschenker/Playground#readme"
+  "homepage": "https://github.com/gnschenker/Playground#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }

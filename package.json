@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/gnschenker/Playground#readme",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-watch": "^4.3.5"
   }
 }

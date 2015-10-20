@@ -1,5 +1,6 @@
 bower_components
 node_modules
+dist
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
